@@ -43,5 +43,5 @@ public class EditItemActivity extends AppCompatActivity {
         //close the activity and redirect to main
         finish();
     }
-    
+
 }
